@@ -1,0 +1,15 @@
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\bin\Debug\net6.0\dz_semi014.exe
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\bin\Debug\net6.0\dz_semi014.deps.json
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\bin\Debug\net6.0\dz_semi014.runtimeconfig.json
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\bin\Debug\net6.0\dz_semi014.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\bin\Debug\net6.0\dz_semi014.pdb
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\dz_semi014.csproj.AssemblyReference.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\dz_semi014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\dz_semi014.AssemblyInfoInputs.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\dz_semi014.AssemblyInfo.cs
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\dz_semi014.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\dz_semi014.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\refint\dz_semi014.dll
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\dz_semi014.pdb
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\dz_semi014.genruntimeconfig.cache
+C:\Users\Андрей\Documents\Обучение\GB\ProgramC#\dz_semi014\obj\Debug\net6.0\ref\dz_semi014.dll
